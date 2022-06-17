@@ -1,2 +1,4 @@
 Dockerfile
 last-email.txt
+.env
+__pycache__/
